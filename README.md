@@ -13,5 +13,5 @@ of them defaulting on payments and catagorize them into healthy(0) and high-risk
 Looking at these scores we are able to tell that the model had a farely easy and accurate time determining which loans were healthy
 it had a harder time determining which loans were high-risk always having a 10% or more difference betweeen the 2. I wouldnt recommend
 the model in its current state for the company to use, while the overall accuracy is great at 99% a few parameters can be added and some 
-aspcets of the model can be changed to get teh percision, recall and f-1 score up for high-risk loans. These are the types of loans that
+aspcets of the model can be changed to get the percision, recall and f-1 score up for high-risk loans. These are the types of loans that
 banks would lose money on so the accuracy needs to be higher to recommend it be used.
